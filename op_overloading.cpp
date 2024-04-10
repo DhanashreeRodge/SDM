@@ -28,7 +28,8 @@ class Box{
 };
 
 int main(){
-	Box obj1(10,12);
+	cout<<"hello
+	Box obj1(20,58);
 	Box obj2(20,22);
 	Box out=obj1+obj2;
 	out.display();
